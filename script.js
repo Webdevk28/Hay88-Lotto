@@ -29,8 +29,7 @@ function randomTlg() {
 // random zalo
 function randomZalo() {
     var zalo = [
-        'https://zalo.me/g/qdwbfv825',
-        'https://zalo.me/g/mtwifk462'
+        'https://zalo.me/g/ehwpkw307'
     ]
     var i = parseInt(Math.random() * zalo.length);
     location.href = zalo[i];
